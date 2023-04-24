@@ -1,4 +1,4 @@
-This is the link to my hosted google app component assignment on netlify - https://google-app-components.netlify.app/.
+This is the link to my hosted google app component assignment on netlify - https://google-app-componentsbyevan.vercel.app/.
 
 For question 1, the components used are
 a. SearchSection.jsx
